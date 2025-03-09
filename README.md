@@ -1,5 +1,3 @@
-# Spotify to Tidal Converter
-
 Convert Spotify track URL to Tidal track URL
 
 ## Requirements
